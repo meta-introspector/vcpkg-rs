@@ -5,3 +5,4 @@ vcp/
 .idea/
 .DS_Store
 vcpkg_installedprocess-repo.log
+process-repo.log
